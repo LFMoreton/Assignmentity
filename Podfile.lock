@@ -1,0 +1,26 @@
+PODS:
+  - Realm (4.4.0):
+    - Realm/Headers (= 4.4.0)
+  - Realm/Headers (4.4.0)
+  - RealmSwift (4.4.0):
+    - Realm (= 4.4.0)
+  - TrustKit (1.6.5)
+
+DEPENDENCIES:
+  - RealmSwift
+  - TrustKit
+
+SPEC REPOS:
+  trunk:
+    - Realm
+    - RealmSwift
+    - TrustKit
+
+SPEC CHECKSUMS:
+  Realm: e125f464884cda953ebefe70c671b75b03b81b9b
+  RealmSwift: 33656a42bd300959a081fc13347376bc478071af
+  TrustKit: 073855e3adecd317417bda4ac9e9ac54a2e3b9f2
+
+PODFILE CHECKSUM: 29e9ae10da3556cd1ea71b8de0cbb4d176c9a5d5
+
+COCOAPODS: 1.8.4

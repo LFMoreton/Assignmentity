@@ -1,0 +1,26 @@
+[
+    {
+        "_id" : "76fg7g978h9g79",
+        "img" : "R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
+        "confidence" : 0.68,
+        "text" : "abcd"
+    },
+    {
+        "_id" : "9f47f97wgf04gf",
+        "img" : "R0lGODl88489f00083hfb0nBAEKAAEALAAAAAABAAEAAAICTAEAOw==",
+        "confidence" : 0.5,
+        "text" : "blababala"
+    },
+    {
+        "_id" : "gfw0g40f0h44gf4",
+        "img" : "R0lGODlhAQf4pubf0wugf4-ghALAAAAAABAAEAAAICTAEAOw==",
+        "confidence" : 0.34,
+        "text" : "gnr;kgn;pkgnsgnr"
+    },
+    {
+        "_id" : "ifh0fg40fuwf40w",
+        "img" : "R0lGOaluf04f0wugf0gbf04AAAAAABAAEAAAICTAEAOw==",
+        "confidence" : 0.99,
+        "text" : "oiehfohfoshoruh"
+    }
+]
